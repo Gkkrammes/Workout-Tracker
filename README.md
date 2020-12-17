@@ -2,6 +2,10 @@
   # Workout Tracker 
   # https://github.com/Gkkrammes/Workout-Tracker
   
+  ## Link to video of functioning app
+  ## https://drive.google.com/file/d/1-AqGvbucLQnJEi7LHNYbtRG8CsQC3fIJ/view
+  - Please note app is not functioning properly on deploy. 
+  
   ## Link to deployed site
   ## https://dry-plains-56806.herokuapp.com/
   
