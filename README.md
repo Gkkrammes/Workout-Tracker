@@ -2,9 +2,8 @@
   # Workout Tracker 
   # https://github.com/Gkkrammes/Workout-Tracker
   
-  
-  ## Live view of functioning app
-  # https://drive.google.com/file/d/1-AqGvbucLQnJEi7LHNYbtRG8CsQC3fIJ/view
+  ## Link to deployed site
+  ## https://dry-plains-56806.herokuapp.com/
   
   ## Table of Contents
   - [Description](#description)
